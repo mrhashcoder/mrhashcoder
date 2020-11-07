@@ -1,2 +1,2 @@
 ### Hi there 👋
-![Screenshot](Abhishek Sharma_Gitstats.png)
+![Screenshot](mrhashcoder_profile.png)
