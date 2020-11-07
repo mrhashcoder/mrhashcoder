@@ -1,2 +1,2 @@
 ### Hi there 👋
-![Screenshot](profile.png)
+![Screenshot](Abhishek Sharma_Gitstats.png)
