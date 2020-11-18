@@ -1,2 +1,2 @@
 # Hi there 👋
-[![mrhashcoder's Github stats](https://gitstats.me/mrhashcoder)](https://mrhashcoder.xyz)
+[![mrhashcoder's Github stats](https://mrhashcoder.xyz)](https://mrhashcoder.xyz)
