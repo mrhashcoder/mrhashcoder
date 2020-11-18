@@ -1,3 +1,2 @@
-### Hi there 👋
-![Screenshot](mrhashcoder_profile2.png)
-<a href="https://gitstats.me"> Visit here to create similiar gitstat of your profile </a>
+# Hi there 👋
+[![mrhashcoder's Github stats](https://github-readme-stats.vercel.app/api?username=mrhashcoder)](https://github.com/mrhashcoder/github-readme-stats)
