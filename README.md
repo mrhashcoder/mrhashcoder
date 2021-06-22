@@ -1,2 +1,2 @@
 # Hi there 👋
-## A passionate competitive programmer, who sometimes needs a push to work.
+## A passionate Programmer & Developer, who sometimes needs a push to work.
